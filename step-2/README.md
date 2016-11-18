@@ -1,4 +1,4 @@
-#Step-1: App Shell Architecture
+#Step-2: Service Worker
 *Service Worker is the 'Network Interceptor'. It's a programmable network proxy under your control.*
 
 This is an event driven script which runs in the background and sits in between your application and the browser. It can intercept and handle the network requests for the registered domain.
